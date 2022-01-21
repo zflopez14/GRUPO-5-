@@ -3,7 +3,7 @@ Evaluacion del modulo gestion de proveedores
 
 Jhenifer Orozco
 
-Raymi Pardo
+Raimy Pardo
 
 Jose Gonzales
 
