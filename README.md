@@ -3,12 +3,12 @@ Evaluacion del modulo gestion de proveedores
 
 * Jhenifer Orozco
 
-Raimy Pardo
+* Raimy Pardo
 
-Jose Gonzales
+* Jose Gonzales
 
-Gustavo Palma
+* Gustavo Palma
 
-Fabian Lopez
+* Fabian Lopez
 
 Ultima vez que se modifico el archivo viernes 202201211933
