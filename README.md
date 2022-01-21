@@ -1,7 +1,7 @@
 # GRUPO-5-UPB
 Evaluacion del modulo gestion de proveedores
 
-Jhenifer Orozco
+* Jhenifer Orozco
 
 Raimy Pardo
 
